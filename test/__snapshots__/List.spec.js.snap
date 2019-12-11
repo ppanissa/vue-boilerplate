@@ -1,0 +1,23 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`List.vue matches snapshot 1`] = `
+<ul>
+  <li>
+    item 1
+  </li>
+  <li>
+    item 2
+  </li>
+</ul>
+`;
+
+exports[`List.vue renders li for each item in props.items 1`] = `
+<ul>
+  <li>
+    1
+  </li>
+  <li>
+    2
+  </li>
+</ul>
+`;

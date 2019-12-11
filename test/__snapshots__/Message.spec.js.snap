@@ -1,0 +1,5 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Message renders default message if not passed a prop 1`] = `<h1>default message</h1>`;
+
+exports[`Message renders props.msg when passed 1`] = `<h1>new message</h1>`;
